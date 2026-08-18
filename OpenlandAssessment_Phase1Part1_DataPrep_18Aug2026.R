@@ -2,7 +2,7 @@
 ###############################################################################
 
 # 🌾 Openland Assessment Project
-# 🛠 Phase 1, Step 1 — Data Preparation
+# 🛠 Phase 1, Part 1 — Data Preparation
 #
 # Supporting Analytical Workflow for:
 # Michigan Department of Natural Resources
